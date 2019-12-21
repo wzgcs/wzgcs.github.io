@@ -70,3 +70,5 @@
 * Yubin Bao, Zhigang Wang, Qiushi Bai, Yu Gu, Ge Yu, et al. "BC-BSP: A BSP-Based System with Disk Cache for Large-Scale Graph" [C], Open Cirrus Summit (OCS), 2012 pp. 35-39 (EI)   
 * 于戈, 谷峪, 鲍玉斌, 王志刚. "云计算环境下的大规模图数据处理技术" [J], 计算机学报, 2011, 34(10):1753-1767 (EI, 一级学报)   
 
+
+**更新时间：2019/12/21**   
