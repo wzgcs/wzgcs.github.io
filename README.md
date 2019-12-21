@@ -48,12 +48,12 @@
 
 ## 发表论文
 ### 一作/通信作者论文(10)：   
-* Zhigang Wang, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. 'HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling' [J], IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019, accepted (SCI, 中科院二区, IF=3.857, **CCF Rank-A**)   
+* <u>Zhigang Wang</u>, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. 'HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling' [J], IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019, accepted (SCI, 中科院二区, IF=3.857, **CCF Rank-A**)   
 * Ning Wang, Zhigang Wang∗, Yu Gu, Yubin Bao, Ge Yu. “TSH: Easy-to-be distributed partitioning for large-scale graphs”[J], Future Generation Computer Systems (FGCS), 2019, 101:804-818 (SCI, IF=5.768, 中科院二区，CCF Rank-C)   
-* Zhigang Wang, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu. "A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments" [J], IEEE Transactions on Parallel and Distributed Systems (TPDS), 2018, 29(8): 1678-1692 (SCI, IF=3.971, 中科院二区, CCF Rank-A)   
+* Zhigang Wang, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu. "A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments" [J], IEEE Transactions on Parallel and Distributed Systems (TPDS), 2018, 29(8): 1678-1692 (SCI, IF=3.971, 中科院二区, **CCF Rank-A**)   
 * Zhigang Wang, Yu Gu, Yubin Bao, Ge Yu, Lixin Gao. "An I/O-efficient and Adaptive Fault-tolerant Framework for Distributed Graph Computations" [J], Distributed and Parallel Databases, 2017, 35(2):177-196 (SCI, IF=1.179, 中科院四区, CCF Rank-C)   
 * Zhigang Wang, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu. "FSP: Towards Flexible Synchronous Parallel Framework for Expectation Maximization based Algorithms on Cloud" [C], ACM Symposium on Cloud Computing (SoCC), 2017, pp. 1-14 (EI, CCF Rank-B)   
-* Zhigang Wang, Yu Gu, Yubin Bao, Ge Yu, Jeffrey Xu Yu. "Hybrid Pulling/Pushing for I/O-Efficient Distributed and Iterative Graph Computing" [C], ACM SIGMOD International Conference on Management of Data (SIGMOD), 2016, pp. 479-494 (EI, CCF Rank-A)   
+* Zhigang Wang, Yu Gu, Yubin Bao, Ge Yu, Jeffrey Xu Yu. "Hybrid Pulling/Pushing for I/O-Efficient Distributed and Iterative Graph Computing" [C], ACM SIGMOD International Conference on Management of Data (SIGMOD), 2016, pp. 479-494 (EI, **CCF Rank-A**)   
 * Zhigang Wang, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu. "A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments" [C], ACM Symposium on Cloud Computing (SoCC), 2016, pp. 71-83 (EI, CCF Rank-B)   
 * 王志刚, 谷峪, 鲍玉斌, 于戈. "OnFlyP: 基于定向边交换的分布式在线大图划分算法" [J], 计算机学报, 2015, 38(9):1838-1851 (EI, 一级学报, NDBC'14最佳论文)   
 * Zhigang Wang, Yu Gu, Roger Zimmermann, Ge Yu. "Shortest Path Computation over Disk-resident Large Graphs based on Extended Bulk Synchronous Parallel Methods" [C], International Conference on Database Systems for Advanced Applications(DASFAA), 2013, pp.1-15 (EI, CCF Rank-B)   
