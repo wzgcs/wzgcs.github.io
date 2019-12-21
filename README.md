@@ -38,16 +38,16 @@
 [2019-2022] 山东省博士后创新项目“新硬件环境下面向迭代计算的自适应大图数据管理技术”，3万，**负责人**   
 [2019-2022] 青岛市博士后应用研究项目“GPU加速的非齐次社交网络并行计算研究”，5万，**负责人**   
 [2019-2021]	中国博士后科学基金面上项目(第65批)“云环境下面向多态查询的动态图数据管理技术”，8万，**负责人**   
-[2017-2019]	国家自然科学基金青年基金项目 “基于热点导航的大图数据迭代计算过程可视化关键技术研究”，20万，主要参加人员   
-[2015-2019]	国家自然科学基金重点项目“大数据高效能存储与管理方法研究”，395万，主要参加人员   
-[2015-2018]	国家自然科学基金面上项目“面向高频多态迭代计算的超大动态图自适应数据管理关键技术”，80万，主要参加人员   
-[2012-2016]	美国国家基金(NSF) "Theoretical Foundations and Distributed Frameworks for Iterative Computations on Massive Data", 45万(USD)，主要参加人员   
-[2013-2016]	国家自然科学基金面上项目“云计算环境下基于BSP模型的大规模图数据查询处理技术”，81万，主要参加人员   
-[2012-2014]	教育部-中国移动联合项目 “基于云计算的BSP并行计算方案研究与实现”，180万，主要参加人员   
-[2012-2013]	中央高校基本科研业务费项目 “云环境下基于BSP的大规模磁盘驻留图数据处理技术研究” 主要参加人员   
+[2017-2019]	国家自然科学基金青年基金项目 “基于热点导航的大图数据迭代计算过程可视化关键技术研究”，20万，参加   
+[2015-2019]	国家自然科学基金重点项目“大数据高效能存储与管理方法研究”，395万，参加   
+[2015-2018]	国家自然科学基金面上项目“面向高频多态迭代计算的超大动态图自适应数据管理关键技术”，80万，参加   
+[2012-2016]	美国国家基金(NSF) "Theoretical Foundations and Distributed Frameworks for Iterative Computations on Massive Data", 45万(USD)，参加   
+[2013-2016]	国家自然科学基金面上项目“云计算环境下基于BSP模型的大规模图数据查询处理技术”，81万，参加   
+[2012-2014]	教育部-中国移动联合项目 “基于云计算的BSP并行计算方案研究与实现”，180万，参加   
+[2012-2013]	中央高校基本科研业务费项目 “云环境下基于BSP的大规模磁盘驻留图数据处理技术研究” 参加   
 
 ## 发表论文
-###一作/通信作者论文(10)：   
+### 一作/通信作者论文(10)：   
 * Zhigang Wang, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. 'HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling' [J], IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019, accepted (SCI, 中科院二区, IF=3.857, CCF Rank-A)   
 * Ning Wang, Zhigang Wang∗, Yu Gu, Yubin Bao, Ge Yu. “TSH: Easy-to-be distributed partitioning for large-scale graphs”[J], Future Generation Computer Systems (FGCS), 2019, 101:804-818 (SCI, IF=5.768, 中科院二区，CCF Rank-C)   
 * Zhigang Wang, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu. "A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments" [J], IEEE Transactions on Parallel and Distributed Systems (TPDS), 2018, 29(8): 1678-1692 (SCI, IF=3.971, 中科院二区, CCF Rank-A)   
@@ -59,7 +59,7 @@
 * Zhigang Wang, Yu Gu, Roger Zimmermann, Ge Yu. "Shortest Path Computation over Disk-resident Large Graphs based on Extended Bulk Synchronous Parallel Methods" [C], International Conference on Database Systems for Advanced Applications(DASFAA), 2013, pp.1-15 (EI, CCF Rank-B)   
 * Zhigang Wang, Yubin Bao, Yu Gu, Fangling Leng, Ge Yu, Chao Deng, Leitao Guo. "A BSP-based Parallel Iterative Processing System with Multiple Partition Strategies for Big Graphs" [J], IEEE International Congress on Big Data, 2013, pp. 173-180 (EI)   
 
-###合作论文(9)：  
+### 合作论文(9)：  
 * Ning Wang, Zhigang Wang, Yu Gu, Jia Xu, Zhiqiang Wei, Ge Yu. "Differentially Private Top-k Frequent Columns Publication for High-Dimensional Data" [J], IEEE Access, 2019, accepted.   
 * Yu Gu, Hui Zhang, Zhigang Wang, Ge Yu. "Efficient moving k nearest neighbor queries over line segment objects" [J], World Wide Web Journal, 2016, 19(4):653-677 (SCI, CCF Rank-B)   
 * 毕亚辉, 姜苏洋, 王志刚, 冷芳玲, 鲍玉斌, 于戈, 钱岭. "面向磁盘驻留的类Pregel系统的多级容错处理机制" [J], 计算机研究与发展, 2016, 53(11):2530-2541 (EI, 一级学报)   
