@@ -1,2 +1,3 @@
-# wzgcs.github.io
-Zhigang Wang's Homepage
+# Zhigang Wang(王志刚)
+
+
