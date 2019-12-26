@@ -1,13 +1,14 @@
 # 王志刚 (Zhigang Wang)  
 <p align="right">
+	中国海洋大学   
+        信息科学与工程学院   
+        计算机科学与技术系
 	<img src="/zhigang.jpg" alt="图片"  width="150" height="210">
 	<p align="center">
 	    <em></em>
 	</p>
 </p>
-中国海洋大学   
-信息科学与工程学院   
-计算机科学与技术系
+
 ————————————————
 
 ## 基本信息
