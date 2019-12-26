@@ -1,4 +1,6 @@
-# 王志刚![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+# 王志刚  
+&emsp;&emsp;   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 | First Header  | Second Header |
 | ------------- | ------------- |
