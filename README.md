@@ -1,5 +1,7 @@
 # 王志刚 (Zhigang Wang)  
-中国海洋大学 信息科学与工程学院 计算机科学与技术系   
+中国海洋大学   
+信息科学与工程学院   
+计算机科学与技术系   
 &emsp;&emsp;   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
