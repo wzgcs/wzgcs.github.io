@@ -6,7 +6,7 @@
 **电子邮箱：** wangzhigang@ouc.edu.cn   
 **办公地址：** 海大崂山校区 信息楼南楼B511   
 **教授课程：** 离散数学I&II(图论)，面向对象的程序设计(C++)，保密宣传教育   
-**研究领域：** 主研大数据与云计算、分布式大图处理和分布式机器学习、GPU并行计算，已在ACM SIGMOD和IEEE TPDS与TKDE等国际顶级会议与期刊发表学术论文19篇，主持国家、省部级课题5项、参与6项，主持发布开源大图处理系统[HGraph](https://github.com/HybridGraph/HGraph).
+**研究领域：** 主研大数据与云计算、分布式大图处理和分布式机器学习、GPU并行计算，已在ACM SIGMOD和IEEE TPDS与TKDE等国际顶级会议与期刊发表学术论文19篇，主持国家、省部级课题5项、参与6项，主持发布开源大图处理系统[[HGraph]](https://github.com/HybridGraph/HGraph).
 
 ## 教育背景
 2018/09-至今，中国海洋大学，讲师   
@@ -41,7 +41,7 @@
 [2017-2019]	NSFC-青年 “基于热点导航的大图数据迭代计算过程可视化关键技术研究”，20万，参加   
 [2015-2019]	NSFC-重点 “大数据高效能存储与管理方法研究”，395万，参加   
 [2015-2018]	NSFC-面上 “面向高频多态迭代计算的超大动态图自适应数据管理关键技术”，80万，参加   
-[2012-2016]	NSF(美国) "Theoretical Foundations and Distributed Frameworks for Iterative Computations on Massive Data", 45万(USD)，参加   
+[2012-2016]	NSF(美国) "Theoretical Foundations and Distributed Frameworks for Iterative Computations on Massive Data", 45万刀，参加   
 [2013-2016]	NSF-面上 “云计算环境下基于BSP模型的大规模图数据查询处理技术”，81万，参加   
 [2012-2014]	教育部-中国移动联合项目 “基于云计算的BSP并行计算方案研究与实现”，180万，参加   
 [2012-2013]	中央高校基本科研业务费项目 “云环境下基于BSP的大规模磁盘驻留图数据处理技术研究” 参加   
