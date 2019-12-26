@@ -5,7 +5,7 @@
     现工作于中国海洋大学计算机科学与技术系。本硕博毕业于东北大学，硕士博士导师为<a href="http://faculty.neu.edu.cn/yuge/">于戈教授</a>，曾赴美国马萨诸撒大学-艾姆霍斯特分校(UMASS Amherst)进行为期两年的CSC联合培养博士学习，导师为<a href="http://www-unix.ecs.umass.edu/~lgao/">Prof. Lixin Gao</a>，并于新加坡国立大学(NUS)计算机学院担任研究助理；主要研究方向为<u>大数据与云计算、分布式大图处理和机器学习以及GPU并行计算</u>；已在ACM SIGMOD和IEEE TPDS与TKDE等国际顶级会议与期刊发表学术论文19篇，主持国家、省部级课题5项、参与6项，主持发布开源大图处理系统<a href="https://github.com/HybridGraph/HGraph">[HGraph]</a>.
 </p>
 
-————————————————
+————————————————————————————————————————————————
 
 ## 基本信息
 **工作单位：** 中国海洋大学 信息科学与工程学院 计算机科学与技术系   
