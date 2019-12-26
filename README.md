@@ -48,7 +48,7 @@
 
 ## 发表论文
 ### 一作/通信作者论文(10)：   
-* <u>Zhigang Wang</u>, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling [J], IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019, accepted (SCI, 中科院二区, IF=3.857, **CCF Rank-A**)   
+* <u>Zhigang Wang</u>, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling [J], IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019, accepted (SCI, 中科院二区, IF=3.857, **CCF Rank-A**) <font color=red>New!</font>   
 * Ning Wang, <u>Zhigang Wang</u>∗, Yu Gu, Yubin Bao, Ge Yu. TSH: Easy-to-be distributed partitioning for large-scale graphs [J], Future Generation Computer Systems (FGCS), 2019, 101:804-818 (SCI, IF=5.768, 中科院二区，CCF Rank-C)   
 * <u>Zhigang Wang</u>, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu*. A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments [J], IEEE Transactions on Parallel and Distributed Systems (TPDS), 2018, 29(8): 1678-1692 (SCI, IF=3.971, 中科院二区, **CCF Rank-A**)   
 * <u>Zhigang Wang</u>, Yu Gu, Yubin Bao, Ge Yu*, Lixin Gao. An I/O-efficient and Adaptive Fault-tolerant Framework for Distributed Graph Computations [J], Distributed and Parallel Databases, 2017, 35(2):177-196 (SCI, IF=1.179, 中科院四区, CCF Rank-C)   
