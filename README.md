@@ -2,11 +2,8 @@
 
 <p style="width:800px;">
     <img src="/zhigang.jpg" align="right" width="120" hspace="5" vspace="5">
-    中国海洋大学<\br>
-    信息科学与工程学院<\br>
-    计算机科学与技术系
+    现工作于中国海洋大学计算机科学与技术系。本硕博毕业于东北大学，硕士博士导师为[于戈教授](http://faculty.neu.edu.cn/yuge/)，曾赴美国马萨诸撒大学-艾姆霍斯特分校(UMASS Amherst)进行为期两年的CSC联合培养博士学习，导师为[Prof. Lixin Gao](http://www-unix.ecs.umass.edu/~lgao/)，并于新加坡国立大学(NUS)计算机学院担任研究助理；主要研究方向为<u>大数据与云计算、分布式大图处理和机器学习以及GPU并行计算</u>；已在ACM SIGMOD和IEEE TPDS与TKDE等国际顶级会议与期刊发表学术论文19篇，主持国家、省部级课题5项、参与6项，主持发布开源大图处理系统[[HGraph]](https://github.com/HybridGraph/HGraph "A Pregel-like Disk-resident Graph Processing System").
 </p>
-
 
 ————————————————
 
@@ -16,7 +13,6 @@
 **电子邮箱：** wangzhigang@ouc.edu.cn   
 **办公地址：** 海大崂山校区 信息楼南楼B511   
 **教授课程：** 离散数学I&II(图论)，面向对象的程序设计(C++)，保密宣传教育   
-**研究领域：** 主研大数据与云计算、分布式大图处理和机器学习、GPU并行计算，已在ACM SIGMOD和IEEE TPDS与TKDE等国际顶级会议与期刊发表学术论文19篇，主持国家、省部级课题5项、参与6项，主持发布开源大图处理系统[[HGraph]](https://github.com/HybridGraph/HGraph "A Pregel-like Disk-resident Graph Processing System").
 
 ## 教育背景
 2018/09-至今，中国海洋大学，讲师   
