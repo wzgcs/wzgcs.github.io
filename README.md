@@ -5,7 +5,7 @@
 &emsp;&emsp;   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center">
-	<img src="/zhigang.jpg" alt="图片"  width="250" height="140">
+	<img src="/zhigang.jpg" alt="图片"  width="140" height="250">
 	<p align="center">
 		<em>王志刚</em>
 	</p>
