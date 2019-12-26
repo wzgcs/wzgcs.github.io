@@ -3,7 +3,16 @@
 信息科学与工程学院   
 计算机科学与技术系   
 &emsp;&emsp;   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![图片](/zhigang.jpg "王志刚")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+	<img src="/zhigang.jpg" alt="图片"  width="250" height="140">
+	<p align="center">
+		<em>王志刚</em>
+	</p>
+</p>
+————————————————
+
+![图片](/zhigang.jpg "王志刚")
 
 ## 基本信息
 **工作单位：** 中国海洋大学 信息科学与工程学院 计算机科学与技术系   
