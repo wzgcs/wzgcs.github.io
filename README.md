@@ -17,7 +17,7 @@
 2007/09-2011/07，东北大学，学士   
 
 ## 奖励荣誉
-* 2018，中国计算机学会(CCF)优秀博士论文奖   
+* 2018，**中国计算机学会(CCF)优秀博士论文奖**   
 * 2017，CSC-IBM中国优秀学生奖学金   
 * 2016，博士研究生国家奖学金   
 * 2014，全国数据库学会(NDBC)唯一最佳论文奖和萨师煊优秀学生论文奖   
@@ -34,10 +34,10 @@
 * 2016，Distributed and Parallel Databases (SCI) reviewer   
 
 ## 科研项目
-[2020-2022] NSFC-青年 “态云环境下的自适应大图迭代查询处理关键技术研究”(61902366)，27万，**负责人**   
-[2019-2022] 山东省博士后创新项目 “新硬件环境下面向迭代计算的自适应大图数据管理技术”，3万，**负责人**   
-[2019-2022] 青岛市博士后应用研究项目 “GPU加速的非齐次社交网络并行计算研究”，5万，**负责人**   
-[2019-2021]	中国博士后科学基金面上项目 “云环境下面向多态查询的动态图数据管理技术”(2019M652474)，8万，**负责人**   
+[2020-2022] NSFC-青年 “态云环境下的自适应大图迭代查询处理关键技术研究”(61902366)，27万，**负责人** <span style="color:red;">**New!**</span>   
+[2019-2022] 山东省博士后创新项目 “新硬件环境下面向迭代计算的自适应大图数据管理技术”，3万，**负责人** <span style="color:red;">**New!**</span>   
+[2019-2022] 青岛市博士后应用研究项目 “GPU加速的非齐次社交网络并行计算研究”，5万，**负责人** <span style="color:red;">**New!**</span>   
+[2019-2021]	中国博士后科学基金面上项目 “云环境下面向多态查询的动态图数据管理技术”(2019M652474)，8万，**负责人** <span style="color:red;">**New!**</span>   
 [2017-2019]	NSFC-青年 “基于热点导航的大图数据迭代计算过程可视化关键技术研究”，20万，参加   
 [2015-2019]	NSFC-重点 “大数据高效能存储与管理方法研究”，395万，参加   
 [2015-2018]	NSFC-面上 “面向高频多态迭代计算的超大动态图自适应数据管理关键技术”，80万，参加   
@@ -49,7 +49,7 @@
 ## 发表论文
 ### 一作/通信作者论文(10)：   
 * <u>Zhigang Wang</u>, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling [J], IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019, accepted (SCI, 中科院二区, IF=3.857, **CCF Rank-A**) <span style="color:red;">**New!**</span>    
-* Ning Wang, <u>Zhigang Wang</u>∗, Yu Gu, Yubin Bao, Ge Yu. TSH: Easy-to-be distributed partitioning for large-scale graphs [J], Future Generation Computer Systems (FGCS), 2019, 101:804-818 (SCI, IF=5.768, 中科院二区，CCF Rank-C)   
+* Ning Wang, <u>Zhigang Wang</u>∗, Yu Gu, Yubin Bao, Ge Yu. TSH: Easy-to-be distributed partitioning for large-scale graphs [J], Future Generation Computer Systems (FGCS), 2019, 101:804-818 (SCI, IF=5.768, 中科院二区，CCF Rank-C) <span style="color:red;">**New!**</span>   
 * <u>Zhigang Wang</u>, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu*. A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments [J], IEEE Transactions on Parallel and Distributed Systems (TPDS), 2018, 29(8): 1678-1692 (SCI, IF=3.971, 中科院二区, **CCF Rank-A**)   
 * <u>Zhigang Wang</u>, Yu Gu, Yubin Bao, Ge Yu*, Lixin Gao. An I/O-efficient and Adaptive Fault-tolerant Framework for Distributed Graph Computations [J], Distributed and Parallel Databases, 2017, 35(2):177-196 (SCI, IF=1.179, 中科院四区, CCF Rank-C)   
 * <u>Zhigang Wang</u>, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu. FSP: Towards Flexible Synchronous Parallel Framework for Expectation Maximization based Algorithms on Cloud [C], ACM Symposium on Cloud Computing (SoCC), 2017, pp. 1-14 (EI, CCF Rank-B)   
@@ -60,7 +60,7 @@
 * <u>Zhigang Wang</u>, Yubin Bao, Yu Gu, Fangling Leng, Ge Yu, Chao Deng, Leitao Guo. A BSP-based Parallel Iterative Processing System with Multiple Partition Strategies for Big Graphs [J], IEEE International Congress on Big Data, 2013, pp. 173-180 (EI)   
 
 ### 合作论文(9)：  
-* Ning Wang, <u>Zhigang Wang</u>, Yu Gu, Jia Xu, Zhiqiang Wei, Ge Yu. Differentially Private Top-k Frequent Columns Publication for High-Dimensional Data [J], IEEE Access, 2019, accepted.   
+* Ning Wang, <u>Zhigang Wang</u>, Yu Gu, Jia Xu, Zhiqiang Wei, Ge Yu. Differentially Private Top-k Frequent Columns Publication for High-Dimensional Data [J], IEEE Access, 2019, accepted. <span style="color:red;">**New!**</span>   
 * Yu Gu, Hui Zhang, <u>Zhigang Wang</u>, Ge Yu. Efficient moving k nearest neighbor queries over line segment objects [J], World Wide Web Journal, 2016, 19(4):653-677 (SCI, CCF Rank-B)   
 * 毕亚辉, 姜苏洋, <u>王志刚</u>, 冷芳玲, 鲍玉斌, 于戈, 钱岭. 面向磁盘驻留的类Pregel系统的多级容错处理机制 [J], 计算机研究与发展, 2016, 53(11):2530-2541 (EI, 一级学报)   
 * 冷芳玲, 刘金鹏, <u>王志刚</u>, 陈昌宁, 鲍玉斌, 于戈, 邓超. BSP模型下基于边聚簇的大图划分与迭代处理 [J], 计算机研究与发展, 2015, 52(4):960-971 (EI, 一级学报)   
