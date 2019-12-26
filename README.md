@@ -3,7 +3,7 @@
 信息科学与工程学院   
 计算机科学与技术系   
 &emsp;&emsp;   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![图片](/zhigang.jpg "王志刚")
 
 ## 基本信息
 **工作单位：** 中国海洋大学 信息科学与工程学院 计算机科学与技术系   
