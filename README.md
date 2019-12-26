@@ -6,7 +6,7 @@
 **电子邮箱：** wangzhigang@ouc.edu.cn   
 **办公地址：** 海大崂山校区 信息楼南楼B511   
 **教授课程：** 离散数学I&II(图论)，面向对象的程序设计(C++)，保密宣传教育   
-**研究领域：** 主研大数据与云计算、分布式大图处理和分布式机器学习、GPU并行计算，已在ACM SIGMOD和IEEE TPDS与TKDE等国际顶级会议与期刊发表学术论文19篇，主持国家、省部级课题5项、参与6项，主持发布开源大图处理系统[[HGraph]](https://github.com/HybridGraph/HGraph).
+**研究领域：** 主研大数据与云计算、分布式大图处理和机器学习、GPU并行计算，已在ACM SIGMOD和IEEE TPDS与TKDE等国际顶级会议与期刊发表学术论文19篇，主持国家、省部级课题5项、参与6项，主持发布开源大图处理系统[[HGraph]](https://github.com/HybridGraph/HGraph).
 
 ## 教育背景
 2018/09-至今，中国海洋大学，讲师   
