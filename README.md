@@ -1,5 +1,13 @@
 # 王志刚 (Zhigang Wang)  
 
+<p style="width:400px;">
+    <img src="/zhigang.jpg" align="right" width="120" hspace="5" vspace="5">
+    HTML文字环绕图片布局HTML文字环绕图片布局HTML文字环绕图片布局HTML文字环绕图片布局HTML文字环绕图片布局HTML文字环绕图片布局HTML文字环绕图片布局HTML文字环绕图片布局HTML文字环绕图片布局HTML文字环绕图片布局HTML文字环绕图片布局HTML文字环绕图片布局HTML文字环绕图片布局HTML文字环绕图片布局HTML文字环绕图片布局
+</p>
+————————————————
+版权声明：本文为CSDN博主「入秋枫叶」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/yiyelanxin/article/details/75006925
+
 <p align="right">
 中国海洋大学</br>   
 信息科学与工程学院</br>   
