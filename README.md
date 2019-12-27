@@ -74,7 +74,7 @@
 * Wenan Wang, Yu Gu, <u>Zhigang Wang</u>, Ge Yu. Parallel Triangle Counting over Large Graphs [C], DASFAA, 2013, pp. 301-308 (EI, CCF Rank-B)   
 * Yubin Bao, <u>Zhigang Wang</u>, Yu Gu, Ge Yu, et al. BC-BSP: A BSP-based Parallel Iterative Processing System for Big Data on Cloud [C], Workshop@DASFAA, 2013, pp. 31-45 (EI, CCF Rank-B)   
 * Yubin Bao, <u>Zhigang Wang</u>, Qiushi Bai, Yu Gu, Ge Yu, et al. BC-BSP: A BSP-Based System with Disk Cache for Large-Scale Graph [C], Open Cirrus Summit (OCS), 2012 pp. 35-39 (EI)   
-* 于戈, 谷峪, 鲍玉斌, <u>王志刚</u>. 云计算环境下的大规模图数据处理技术 [J], 计算机学报, 2011, 34(10):1753-1767 (EI, 一级学报)   
+* 于戈, 谷峪, 鲍玉斌, <u>王志刚</u>. 云计算环境下的大规模图数据处理技术 [J], 计算机学报, 2011, 34(10):1753-1767 (EI, 一级学报) [[PDF]](papers/1_计算机学报_2011_云计算环境下的大规模图数据处理技术.pdf)   
 
 
 **更新时间：2019/12/21**   
