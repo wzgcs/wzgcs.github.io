@@ -55,7 +55,7 @@
 ## 发表论文
 ### 一作/通信作者论文(10)：   
 * <u>Zhigang Wang</u>, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling [J], IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2019, accepted (SCI, 中科院二区, IF=3.857, **CCF Rank-A**) <span style="color:red;">**New!**</span>    
-* Ning Wang, <u>Zhigang Wang</u>∗, Yu Gu, Yubin Bao, Ge Yu. TSH: Easy-to-be distributed partitioning for large-scale graphs [J], Future Generation Computer Systems (FGCS), 2019, 101:804-818 (SCI, IF=5.768, 中科院一区，CCF Rank-C) <span style="color:red;">**New!**</span>   
+* Ning Wang, <u>Zhigang Wang</u>∗, Yu Gu, Yubin Bao, Ge Yu. TSH: Easy-to-be distributed partitioning for large-scale graphs [J], Future Generation Computer Systems (FGCS), 2019, 101:804-818 (SCI, IF=5.768, 中科院一区，CCF Rank-C) [[PDF]](papers/17_FGCS_2019_tsh_partitioning.pdf) <span style="color:red;">**New!**</span>   
 * <u>Zhigang Wang</u>, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu*. A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments [J], IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2018, 29(8): 1678-1692 (SCI, IF=3.971, 中科院二区, **CCF Rank-A**) [[PDF]](papers/16_TPDS_2018_fc_asyn.pdf)   
 * <u>Zhigang Wang</u>, Yu Gu, Yubin Bao, Ge Yu*, Lixin Gao. An I/O-efficient and Adaptive Fault-tolerant Framework for Distributed Graph Computations [J], Distributed and Parallel Databases, 2017, 35(2):177-196 (SCI, IF=1.179, 中科院四区, CCF Rank-C) [[PDF]](papers/14_DPD_2017_弹性容错.pdf)   
 * <u>Zhigang Wang</u>, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu. FSP: Towards Flexible Synchronous Parallel Framework for Expectation Maximization based Algorithms on Cloud [C], ACM Symposium on Cloud Computing (SoCC), 2017, pp. 1-14 (EI, CCF Rank-B) [[PDF]](papers/15_SoCC_2017_fsp.pdf)   
@@ -66,7 +66,7 @@
 * <u>Zhigang Wang</u>, Yubin Bao, Yu Gu, Fangling Leng, Ge Yu, Chao Deng, Leitao Guo. A BSP-based Parallel Iterative Processing System with Multiple Partition Strategies for Big Graphs [J], IEEE International Congress on Big Data, 2013, pp. 173-180 (EI) [[PDF]](papers/6_IEEE Big Data_2013_A BSP-based Parallel Iterative Processing System with Multiple Partition Strategies for Big Graphs.pdf)   
 
 ### 合作论文(9)：  
-* Ning Wang, <u>Zhigang Wang</u>, Yu Gu, Jia Xu, Zhiqiang Wei, Ge Yu. Differentially Private Top-k Frequent Columns Publication for High-Dimensional Data [J], IEEE Access, 2019, accepted. <span style="color:red;">**New!**</span>   
+* Ning Wang, <u>Zhigang Wang</u>, Yu Gu, Jia Xu, Zhiqiang Wei, Ge Yu. Differentially Private Top-k Frequent Columns Publication for High-Dimensional Data [J], IEEE Access, 2019, 7:177342-177353 [[PDF]](papers/18_ACCESS_2019_dp.pdf) <span style="color:red;">**New!**</span>   
 * Yu Gu, Hui Zhang, <u>Zhigang Wang</u>, Ge Yu. Efficient moving k nearest neighbor queries over line segment objects [J], World Wide Web Journal, 2016, 19(4):653-677 (SCI, CCF Rank-B) [[PDF]](papers/9_WWWJ_2015_kneighbors.pdf)   
 * 毕亚辉, 姜苏洋, <u>王志刚</u>, 冷芳玲, 鲍玉斌, 于戈, 钱岭. 面向磁盘驻留的类Pregel系统的多级容错处理机制 [J], 计算机研究与发展, 2016, 53(11):2530-2541 (EI, 一级学报) [[PDF]](papers/13_计算机研究与发展_2016_多级容错.pdf)   
 * 冷芳玲, 刘金鹏, <u>王志刚</u>, 陈昌宁, 鲍玉斌, 于戈, 邓超. BSP模型下基于边聚簇的大图划分与迭代处理 [J], 计算机研究与发展, 2015, 52(4):960-971 (EI, 一级学报) [[PDF]](papers/8_计算机研究与发展_2015_图划分_边聚簇.pdf)   
