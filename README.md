@@ -2,7 +2,7 @@
 
 <p style="width:700px;">
     <img src="/zhigang.jpg" align="right" width="120" hspace="5" vspace="5">
-    现工作于中国海洋大学计算机科学与技术系。本硕博毕业于东北大学，导师为<a href="http://faculty.neu.edu.cn/yuge/">于戈教授</a>，曾赴美国马萨诸撒大学-艾姆霍斯特分校(UMASS Amherst)进行为期两年的CSC联合培养博士学习，导师为<a href="http://www-unix.ecs.umass.edu/~lgao/">Prof. Lixin Gao</a>，并于新加坡国立大学(NUS)计算机学院担任研究助理；主要研究方向为<u>大数据与云计算</u>、<u>分布式大图处理和机器学习</u>以及<u>GPU并行计算</u>；已在ACM SIGMOD和IEEE TPDS与TKDE等国际顶级会议与期刊发表学术论文19篇，主持国家、省部级课题5项、参与6项，主持发布开源大图处理系统<a href="https://github.com/HybridGraph/HGraph">[HGraph]</a>. <b>招收对相关领域感兴趣的研究生!</b>
+    现工作于中国海洋大学计算机科学与技术系。本硕博毕业于东北大学，导师为<a href="http://faculty.neu.edu.cn/yuge/">于戈教授</a>，曾赴美国马萨诸撒大学-艾姆霍斯特分校(UMASS Amherst)进行为期两年的CSC联合培养博士学习，导师为<a href="http://www-unix.ecs.umass.edu/~lgao/">Prof. Lixin Gao</a>，并于新加坡国立大学(NUS)计算机学院担任研究助理；主要研究方向为<u>大数据与云计算</u>、<u>分布式大图处理和机器学习</u>以及<u>GPU并行计算</u>；已在ACM SIGMOD和IEEE TPDS与TKDE等国际顶级会议与期刊发表学术论文20篇，主持国家、省部级课题5项、参与6项，主持发布开源大图处理系统<a href="https://github.com/HybridGraph/HGraph">[HGraph]</a>. <b>招收对相关领域感兴趣的研究生!</b>
 </p>
 
 ——————————————————————————————————
@@ -57,8 +57,8 @@
 
 ## 发表论文
 ### 一作/通信作者论文(10)：   
-* <u>Zhigang Wang</u>, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling [J], IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2020, accepted (SCI, 中科院二区, IF=3.857, **CCF Rank-A**) [[PDF]](papers/19_tkde_hgraph_preprint.pdf)[[supplementary]](papers/19_tkde_hgraph_supp.pdf) <span style="color:red;">**New!**</span>    
-* Ning Wang, <u>Zhigang Wang</u>∗, Yu Gu, Yubin Bao, Ge Yu. TSH: Easy-to-be distributed partitioning for large-scale graphs [J], Future Generation Computer Systems-The International Journal of eScience (FGCS), 2019, 101:804-818 (SCI, IF=5.768, 中科院一区，CCF Rank-C) [[PDF]](papers/17_FGCS_2019_tsh_partitioning.pdf) <span style="color:red;">**New!**</span>   
+* <u>Zhigang Wang</u>, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling [J], IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2020, accepted, DOI:10.1109/TKDE.2019.2951407 (SCI, 中科院二区, IF=4.935, **CCF Rank-A**) [[PDF]](papers/19_tkde_hgraph_preprint.pdf)[[supplementary]](papers/19_tkde_hgraph_supp.pdf) <span style="color:red;">**New!**</span>    
+* Ning Wang, <u>Zhigang Wang</u>∗, Yu Gu, Yubin Bao, Ge Yu. TSH: Easy-to-be distributed partitioning for large-scale graphs [J], Future Generation Computer Systems-The International Journal of eScience (FGCS), 2019, 101:804-818 (SCI, IF=6.125, 中科院一区, Top期刊, CCF Rank-C) [[PDF]](papers/17_FGCS_2019_tsh_partitioning.pdf) <span style="color:red;">**New!**</span>   
 * <u>Zhigang Wang</u>, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu*. A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments [J], IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2018, 29(8): 1678-1692 (SCI, IF=3.402, 中科院二区, **CCF Rank-A**) [[PDF]](papers/16_TPDS_2018_fc_asyn.pdf)   
 * <u>Zhigang Wang</u>, Yu Gu, Yubin Bao, Ge Yu*, Lixin Gao. An I/O-efficient and Adaptive Fault-tolerant Framework for Distributed Graph Computations [J], Distributed and Parallel Databases, 2017, 35(2):177-196 (SCI, IF=0.925, 中科院四区, CCF Rank-C) [[PDF]](papers/14_DPD_2017_弹性容错.pdf)   
 * <u>Zhigang Wang</u>, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu. FSP: Towards Flexible Synchronous Parallel Framework for Expectation Maximization based Algorithms on Cloud [C], ACM Symposium on Cloud Computing (SoCC), 2017, pp. 1-14 (EI, CCF Rank-B) [[PDF]](papers/15_SoCC_2017_fsp.pdf)   
@@ -68,7 +68,8 @@
 * <u>Zhigang Wang</u>, Yu Gu, Roger Zimmermann, Ge Yu. Shortest Path Computation over Disk-resident Large Graphs based on Extended Bulk Synchronous Parallel Methods [C], International Conference on Database Systems for Advanced Applications(DASFAA), 2013, pp.1-15 (EI, CCF Rank-B) [[PDF]](papers/3_DASFAA_2013_Shortest Path Computation over Disk-Resident.pdf)   
 * <u>Zhigang Wang</u>, Yubin Bao, Yu Gu, Fangling Leng, Ge Yu, Chao Deng, Leitao Guo. A BSP-based Parallel Iterative Processing System with Multiple Partition Strategies for Big Graphs [J], IEEE International Congress on Big Data, 2013, pp. 173-180 (EI) [[PDF]](papers/6_IEEE Big Data_2013_A BSP-based Parallel Iterative Processing System with Multiple Partition Strategies for Big Graphs.pdf)   
 
-### 合作论文(9)：  
+### 合作论文(10)：  
+* Yu Gu, Kaiqiang Yu, Zhen Song, Jianzhong Qi, <u>Zhigang Wang</u>, Ge Yu, Rui Zhang. Distributed Hypergraph Processing Using Intersection Graphs [J], IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2020, accepted, DOI:10.1109/TKDE.2020.3022014 (SCI, 中科院二区, IF=4.935, **CCF Rank-A**) [[PDF]](papers/20_tkde_hypergraph_preprint.pdf) <span style="color:red;">**New!**</span>  
 * Ning Wang, <u>Zhigang Wang</u>, Yu Gu, Jia Xu, Zhiqiang Wei, Ge Yu. Differentially Private Top-k Frequent Columns Publication for High-Dimensional Data [J], IEEE Access, 2019, 7:177342-177353 (SCI, IF=4.098, 中科院二区) [[PDF]](papers/18_ACCESS_2019_dp.pdf) <span style="color:red;">**New!**</span>   
 * Yu Gu, Hui Zhang, <u>Zhigang Wang</u>, Ge Yu. Efficient moving k nearest neighbor queries over line segment objects [J], World Wide Web-Internet and Web Information Systems (WWWJ), 2016, 19(4):653-677 (SCI, IF=1.405, CCF Rank-B) [[PDF]](papers/9_WWWJ_2015_kneighbors.pdf)   
 * 毕亚辉, 姜苏洋, <u>王志刚</u>, 冷芳玲, 鲍玉斌, 于戈, 钱岭. 面向磁盘驻留的类Pregel系统的多级容错处理机制 [J], 计算机研究与发展, 2016, 53(11):2530-2541 (EI, 一级学报) [[PDF]](papers/13_计算机研究与发展_2016_多级容错.pdf)   
@@ -80,4 +81,4 @@
 * 于戈, 谷峪, 鲍玉斌, <u>王志刚</u>. 云计算环境下的大规模图数据处理技术 [J], 计算机学报, 2011, 34(10):1753-1767 (EI, 一级学报) [[PDF]](papers/1_计算机学报_2011_云计算环境下的大规模图数据处理技术.pdf)   
 
 
-**更新时间：2020/08/26**   
+**更新时间：2020/09/28**   
