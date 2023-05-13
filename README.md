@@ -8,11 +8,11 @@
 ——————————————————————————————————
 
 ## 基本信息
-**工作单位：** 中国海洋大学 信息科学与工程学院 计算机科学与技术系   
+**工作单位：** 中国海洋大学 信息科学与工程学部 计算机科学与技术学院   
 **现任职称：** 副教授(硕士生导师)   
 **电子邮箱：** wangzhigang@ouc.edu.cn   
-**办公地址：** 海大崂山校区 信息楼南楼B511   
-**教授课程：** 离散数学I&II(图论)，面向对象的程序设计(C++)，保密宣传教育   
+**办公地址：** 海大西海岸校区 信息楼南楼B521   
+**教授课程：** 离散数学I，面向对象的程序设计(C++)，并行与分布式计算   
 
 ## 教育/工作经历
 2021/01-至今，中国海洋大学，副教授   
@@ -24,7 +24,8 @@
 2007/09-2011/07，东北大学，学士   
 
 ## 奖励荣誉
-* 2019，**ACM中国优秀新星奖（青岛片区）** <span style="color:red;">**New!**</span>  
+* 2021，**CCF信息系统专委旗舰会议WISA优秀学生论文奖**<span style="color:red;">**New!**</span>       
+* 2019，**ACM中国优秀新星奖（青岛片区）**   
 * 2018，**中国计算机学会(CCF)优秀博士论文奖**    
 * 2017，CSC-IBM中国优秀学生奖学金   
 * 2016，博士研究生国家奖学金   
@@ -42,9 +43,10 @@
 * 2016，Distributed and Parallel Databases (SCI) reviewer   
 
 ## 科研项目
-[2020-2022] 中国海洋大学创新交叉团队培育项目（青年）“人工智能和近海环境预测预报”，20/150万，**子课题负责人** <span style="color:red;">**New!**</span>  
-[2020-2021] 中国博士后科学基金特别资助“面向多态大图查询的智能迭代计算技术研究”(2020T130623)，18万，**负责人** <span style="color:red;">**New!**</span>  
-[2020-2022] NSFC-青年 “瞬态云环境下的自适应大图迭代查询处理关键技术研究”(61902366)，27万，**负责人** <span style="color:red;">**New!**</span>   
+[2023-2026] 国家自然科学基金-重点项目“面向海洋应用的跨模态大数据智能超算模型及其算法研究”，256万，**核心参与人** <span style="color:red;">**New!**</span>  
+[2020-2022] 中国海洋大学创新交叉团队培育项目（青年）“人工智能和近海环境预测预报”，20/150万，**子课题负责人**   
+[2020-2021] 中国博士后科学基金特别资助“面向多态大图查询的智能迭代计算技术研究”(2020T130623)，18万，**负责人**   
+[2020-2022] 国家自然科学基金-青年项目 “瞬态云环境下的自适应大图迭代查询处理关键技术研究”(61902366)，27万，**负责人**    
 [2019-2022] 山东省博士后创新项目 “新硬件环境下面向迭代计算的自适应大图数据管理技术”，3万，**负责人**    
 [2019-2022] 青岛市博士后应用研究项目 “GPU加速的非齐次社交网络并行计算研究”，5万，**负责人**    
 [2019-2021]	中国博士后科学基金面上项目 “云环境下面向多态查询的动态图数据管理技术”(2019M652474)，8万，**负责人**  
@@ -57,8 +59,13 @@
 [2012-2013]	中央高校基本科研业务费项目 “云环境下基于BSP的大规模磁盘驻留图数据处理技术研究” 参加   
 
 ## 发表论文
-### 一作/通信作者论文(10)：   
-* <u>Zhigang Wang</u>, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling [J], IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021, 33(5):1973-1987 (SCI, 中科院二区, IF=4.935, **CCF Rank-A**) [[PDF]](papers/19_TKDE_2021.pdf) <span style="color:red;">**New!**</span>    
+### 一作/通信作者论文：   
+* Ning Wang, Yaohua Wang, <u>Zhigang Wang*</u>, Jie Nie, Zhiqiang Wei, Peng Tang, Yu Gu, Ge Yu. PrivNUD: Effective Range Query Processing under Local Differential Privacy [C], IEEE International Conference on Data Engineering (**ICDE**), 2023, accepted (EI, **CCF-A**) <span style="color:red;">**New!**</span>     
+* <u>Zhigang Wang</u>, Zichao Yang, Ning Wang*, Yujie Du, Jie Nie, Zhiqiang Wei, Yu Gu, Ge Yu. Lightweight Streaming Graph Partitioning by Fully Utilizing Knowledge from Local View [C], the 43rd IEEE International Conference on Distributed Computing Systems (**ICDCS**), 2023, accepted (EI, CCF Rank-B) [[PDF]](papers/22_ICDCS_2023.pdf) <span style="color:red;">**New!**</span>    
+* <u>Zhigang Wang</u>, Yilei Tu, Ning Wang*, Lixin Gao, Jie Nie, Zhiqiang Wei, Yu Gu, Ge Yu. FSP: Towards Flexible Synchronous Parallel Frameworks for Distributed Machine Learning [J], IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2023, 34(2): 687-703 (SCI, 中科院二区, IF=3.757, **CCF Rank-A**) [[PDF]](papers/20_TPDS_2023.pdf) <span style="color:red;">**New!**</span>    
+* <u>Zhigang Wang</u>, Ning Wang*, Jie Nie, Zhiqiang Wei, Yu Gu, and Ge Yu. A lock-free approach to parallelizing personalized pagerank computations on GPU [J], Frontiers of Computer Science (FCS), 2023, 17(1):171602 (SCI, 中科院三区, IF=2.669, CCF Rank-B) [[PDF]](papers/21_FCS_2023.pdf) <span style="color:red;">**New!**</span>    
+* 杜玉洁, <u>王志刚*</u>, 王宁, 刘芯亦, 衣军成, 聂婕, 魏志强, 谷峪, 于戈. 分布式多维大图迭代计算性能优化方法 [J], 计算机研究与发展, 2023, 60(3):,  (EI, **CCF-A类中文**) [[PDF]](papers/23_yanfa_2023.pdf) <span style="color:red;">**New!**</span>    
+* <u>Zhigang Wang</u>, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling [J], IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021, 33(5):1973-1987 (SCI, 中科院二区, IF=4.935, **CCF Rank-A**) [[PDF]](papers/19_TKDE_2021.pdf)     
 * Ning Wang, <u>Zhigang Wang</u>∗, Yu Gu, Yubin Bao, Ge Yu. TSH: Easy-to-be distributed partitioning for large-scale graphs [J], Future Generation Computer Systems-The International Journal of eScience (FGCS), 2019, 101:804-818 (SCI, IF=6.125, 中科院一区, Top期刊, CCF Rank-C) [[PDF]](papers/17_FGCS_2019_tsh_partitioning.pdf)  
 * <u>Zhigang Wang</u>, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu*. A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments [J], IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2018, 29(8): 1678-1692 (SCI, IF=3.402, 中科院二区, **CCF Rank-A**) [[PDF]](papers/16_TPDS_2018_fc_asyn.pdf)   
 * <u>Zhigang Wang</u>, Yu Gu, Yubin Bao, Ge Yu*, Lixin Gao. An I/O-efficient and Adaptive Fault-tolerant Framework for Distributed Graph Computations [J], Distributed and Parallel Databases, 2017, 35(2):177-196 (SCI, IF=0.925, 中科院四区, CCF Rank-C) [[PDF]](papers/14_DPD_2017_弹性容错.pdf)   
@@ -69,8 +76,10 @@
 * <u>Zhigang Wang</u>, Yu Gu, Roger Zimmermann, Ge Yu. Shortest Path Computation over Disk-resident Large Graphs based on Extended Bulk Synchronous Parallel Methods [C], International Conference on Database Systems for Advanced Applications(DASFAA), 2013, pp.1-15 (EI, CCF Rank-B) [[PDF]](papers/3_DASFAA_2013_Shortest Path Computation over Disk-Resident.pdf)   
 * <u>Zhigang Wang</u>, Yubin Bao, Yu Gu, Fangling Leng, Ge Yu, Chao Deng, Leitao Guo. A BSP-based Parallel Iterative Processing System with Multiple Partition Strategies for Big Graphs [J], IEEE International Congress on Big Data, 2013, pp. 173-180 (EI) [[PDF]](papers/6_IEEE Big Data_2013_A BSP-based Parallel Iterative Processing System with Multiple Partition Strategies for Big Graphs.pdf)   
 
-### 合作论文(10)：  
-* Yu Gu, Kaiqiang Yu, Zhen Song, Jianzhong Qi, <u>Zhigang Wang</u>, Ge Yu, Rui Zhang. Distributed Hypergraph Processing Using Intersection Graphs [J], IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2020, accepted, DOI:10.1109/TKDE.2020.3022014 (SCI, 中科院二区, IF=4.935, **CCF Rank-A**) [[PDF]](papers/20_tkde_hypergraph_preprint.pdf) <span style="color:red;">**New!**</span>  
+### 合作论文：  
+* Zhen Song, Yu Gu, Jianzhong Qi, <u>Zhigang Wang</u>, Ge Yu. EC-Graph: A Distributed Graph Neural Network System with Error-Compensated Compression [C], IEEE International Conference on Data Engineering (**ICDE**), 2022, pp. 648-660 (EI, **CCF-A**) <span style="color:red;">**New!**</span>       
+* Zhen Song, Yu Gu*, <u>Zhigang Wang</u>, Ge Yu. DRPS: efficient disk-resident parameter servers for distributed machine learning [J], Frontiers of Computer Science (FCS), 2022, 16(4): 164321 (CCF-B, 中科院三区) <span style="color:red;">**New!**</span>        
+* Yu Gu, Kaiqiang Yu, Zhen Song, Jianzhong Qi, <u>Zhigang Wang</u>, Ge Yu, Rui Zhang. Distributed Hypergraph Processing Using Intersection Graphs [J], IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022, 34(7): 3182-3195 (SCI, 中科院二区, IF=4.935, **CCF Rank-A**) [[PDF]](papers/20_tkde_hypergraph_preprint.pdf)   
 * Ning Wang, <u>Zhigang Wang</u>, Yu Gu, Jia Xu, Zhiqiang Wei, Ge Yu. Differentially Private Top-k Frequent Columns Publication for High-Dimensional Data [J], IEEE Access, 2019, 7:177342-177353 (SCI, IF=4.098, 中科院二区) [[PDF]](papers/18_ACCESS_2019_dp.pdf)    
 * Yu Gu, Hui Zhang, <u>Zhigang Wang</u>, Ge Yu. Efficient moving k nearest neighbor queries over line segment objects [J], World Wide Web-Internet and Web Information Systems (WWWJ), 2016, 19(4):653-677 (SCI, IF=1.405, CCF Rank-B) [[PDF]](papers/9_WWWJ_2015_kneighbors.pdf)   
 * 毕亚辉, 姜苏洋, <u>王志刚</u>, 冷芳玲, 鲍玉斌, 于戈, 钱岭. 面向磁盘驻留的类Pregel系统的多级容错处理机制 [J], 计算机研究与发展, 2016, 53(11):2530-2541 (EI, 一级学报) [[PDF]](papers/13_计算机研究与发展_2016_多级容错.pdf)   
@@ -82,4 +91,4 @@
 * 于戈, 谷峪, 鲍玉斌, <u>王志刚</u>. 云计算环境下的大规模图数据处理技术 [J], 计算机学报, 2011, 34(10):1753-1767 (EI, 一级学报) [[PDF]](papers/1_计算机学报_2011_云计算环境下的大规模图数据处理技术.pdf)   
 
 
-**更新时间：2021/02/08**   
+**更新时间：2023/05/13**   
