@@ -25,9 +25,9 @@
 2007/09-2011/07，东北大学，学士   
 
 ## 报告交流
-* 2025.03.25, AI大模型在垂直领域应用时的数据安全问题：思考与应对, 广东省卫生健康网络与数据安全研究及实训基地 <a href="https://mp.weixin.qq.com/s/BblUeNbN5DAbozOeesRkzw">新闻链接</a> (视频号检索：AI大模型的新风险应对措施培训)      
-* 2024.08.29, DB for Ocean: 海洋大数据处理过程中的若干加速问题探索与研究, 中山大学百年华诞计算机学科系列论坛 <a href="https://mp.weixin.qq.com/s/Yu27ABU4Ld0akFxCaDaxow">新闻链接</a>       
-* 2023.09.19, 海洋多模态大数据并行处理加速, 世界海洋科技大会-海洋信息与大数据青年学者论坛 <a href="https://it.ouc.edu.cn/2023/0921/c21607a442356/page.htm">新闻链接</a>       
+* 2025.03.25, <a href="https://mp.weixin.qq.com/s/BblUeNbN5DAbozOeesRkzw">AI大模型在垂直领域应用时的数据安全问题：思考与应对</a>, 广东省卫生健康网络与数据安全研究及实训基地 (视频号：AI大模型的新风险应对措施培训)      
+* 2024.08.29, <a href="https://mp.weixin.qq.com/s/Yu27ABU4Ld0akFxCaDaxow">DB for Ocean: 海洋大数据处理过程中的若干加速问题探索与研究</a>, 中山大学百年华诞计算机学科系列论坛        
+* 2023.09.19, <a href="https://it.ouc.edu.cn/2023/0921/c21607a442356/page.htm">海洋大数据知识模型训练与推理加速研究</a>, 世界海洋科技大会-海洋信息与大数据青年学者论坛        
 
 ## 奖励荣誉
 * 2024，广东省计算机学会高等教育教学成果二等奖 <span style="color:red;">**New!**</span>    
