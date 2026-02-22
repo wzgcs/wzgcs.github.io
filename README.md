@@ -25,12 +25,15 @@
 2007/09-2011/07，东北大学，学士   
 
 ## 报告交流
+* 2025.08.21, <a href="https://m.alltuu.com/album/1472116502/?menu=live">AI大模型时代面向医疗领域信息安全的智能攻防技术</a>,         
+* 2025.08.09, <a href="https://m.alltuu.com/album/1472116502/?menu=live">AI大模型时代下的智能化网络攻防</a>, 2025网络安全技术创新与人才教育大会-网络空间安全主动防御创新技术分论坛        
 * 2025.03.25, <a href="https://mp.weixin.qq.com/s/BblUeNbN5DAbozOeesRkzw">AI大模型在垂直领域应用时的数据安全问题：思考与应对</a>, 广东省卫生健康网络与数据安全研究及实训基地 (视频号：AI大模型的新风险应对措施培训)      
 * 2024.08.29, <a href="https://mp.weixin.qq.com/s/Yu27ABU4Ld0akFxCaDaxow">DB for Ocean: 海洋大数据处理过程中的若干加速问题探索与研究</a>, 中山大学百年华诞计算机学科系列论坛        
 * 2023.09.19, <a href="https://it.ouc.edu.cn/2023/0921/c21607a442356/page.htm">海洋大数据知识模型训练与推理加速研究</a>, 世界海洋科技大会-海洋信息与大数据青年学者论坛        
 
 ## 奖励荣誉
-* 2024，广东省计算机学会高等教育教学成果二等奖 <span style="color:red;">**New!**</span>    
+* 2025，腾讯安全沙龙-第六期优秀演讲嘉宾“智能时代的“矛”与“盾”：从技术博弈到安全共生”<span style="color:red;">**New!**</span>    
+* 2024，广东省计算机学会高等教育教学成果二等奖     
 * 2023，**山东省科技进步一等奖**     
 * 2023，**中国计算机学会(CCF)自然科学二等奖**   
 * 2023，山东省计算机学会科技进步一等奖    
@@ -43,11 +46,13 @@
 * 2013，辽宁省优秀硕士论文   
 
 ## 学术兼职
-* 中国计算机学会数据库专委执行委员、信息系统专委执行委员
+* IEEE ICCDB+AI 2025 Workshop Chair “Big Data and Artificial Intelligence”      
+* 中国计算机学会数据库专委执行委员、信息系统专委执行委员      
 * 广东省大数据专委委员    
 
 ## 科研项目
-[2025-2026] 教育部重点实验室开放课题 “支持异构环境下大模型高效训练的分布式数据处理与优化技术研究”(2024ZD016)，**负责人** <span style="color:red;">**New!**</span>   
+[2026-2028] 广东省自然科学基金-面上项目 “软硬件异构环境下支持大模型高效训练的分布式数据处理技术”(***)，**负责人** <span style="color:red;">**New!**</span>   
+[2025-2026] 教育部重点实验室开放课题 “支持异构环境下大模型高效训练的分布式数据处理与优化技术研究”(2024ZD016)，**负责人**    
 [2024-2027] NSFC-重点项目 “海洋大数据知识演化表示与复杂问题协同推理关键技术研究”，参与          
 [2023-2026] NSFC-重点项目 “面向海洋应用的跨模态大数据智能超算模型及其算法研究”，参与      
 [2023-2026] 中央高校基本科研业务费，中国海洋大学交叉团队培育青年项目：人工智能和近海环境预测预报，**子课题负责人**     
@@ -65,22 +70,25 @@
 
 ## 发表论文
 ### 一作/通信作者论文：   
+* <u>Zhigang Wang</u>, Xu Zhang, Ning Wang*, Chuanfei Xu, Yu Gu, Hui Lu, Dawei Zhao*, Zhihong Tian. Accelerating Heterogeneous Tensor Parallelism via Flexible Workload Control [J]. IEEE Transactions on Big Data, 2026, accepted (CCF-B, SCI二区) [[PDF]](papers/31_TBD_2026.pdf) <span style="color:red;">**New!**</span>  
+* <u>Zhigang Wang</u>, Yizhen Yu, Mingxin Li, Jian Lou*, Ning Wang*, Yu Gu, Shen Su, Yuan Liu, Hui Jiang*, Zhihong Tian. FELEMN: Toward Efficient Feature-Level Machine Unlearning for Exact Privacy Protection [J]. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025, 37(12):7169-7183 (**CCF-A**, **SCI一区Top**) [[PDF]](papers/30_TKDE_2025.pdf) <span style="color:red;">**New!**</span>  
+* <u>Zhigang Wang</u>, Gongtai Sun, Ning Wang, Lixin Gao, Chuanfei Xu, Yu Gu, Ge Yu, Zhihong Tian*. Lightweight Graph Partitioning Enhanced by Implicit Knowledge [J]. IEEE Transactions on Computers, 2025, 74(12):4153-4167 (**CCF-A**, SCI二区) [[PDF]](papers/29_TC_2025.pdf) <span style="color:red;">**New!**</span>    
 * Ning Wang, Jian Zhuang, <u>Zhigang Wang*</u>, Zhiqiang Wei, Yu Gu, Peng Tang, Ge Yu. Multidimensional categorical data collection under shuffled differential privacy [J]. Computers & Security, 2025, 151: 104301 (CCF-B, SCI二区) [[PDF]](papers/28_CS_2025.pdf) <span style="color:red;">**New!**</span>    
-* Hui Yu, Yujie Du, Xiaoqi Zhang, <u>Zhigang Wang*</u>, Ning Wang, Juncheng Yi, Xiaodong Wang, Jie Nie, Zhiqiang Wei. A Dynamic Convergence Criterion for Fast K-means Computations [C]. Web Information Systems and Applications (WISA), 2024, pp. 191-202 (CCF信息系统专委旗舰会议，EI) [[PDF]](papers/27_WISA_2024.pdf) <span style="color:red;">**New!**</span>     
-* Ning Wang, Yifei Liu, <u>Zhigang Wang*</u>, Zhiqiang Wei, Ruichun Tang, Peng Tang, Ge Yu. Locally differentially private frequency distribution estimation with relative error optimization [J]. Frontiers of Computer Science (FCS), 2024, 18(5): 185613 (CCF-B, SCI三区) [[PDF]](papers/26_FCS_2024.pdf) <span style="color:red;">**New!**</span>
+* Hui Yu, Yujie Du, Xiaoqi Zhang, <u>Zhigang Wang*</u>, Ning Wang, Juncheng Yi, Xiaodong Wang, Jie Nie, Zhiqiang Wei. A Dynamic Convergence Criterion for Fast K-means Computations [C]. Web Information Systems and Applications (WISA), 2024, pp. 191-202 (CCF信息系统专委旗舰会议，EI) [[PDF]](papers/27_WISA_2024.pdf)      
+* Ning Wang, Yifei Liu, <u>Zhigang Wang*</u>, Zhiqiang Wei, Ruichun Tang, Peng Tang, Ge Yu. Locally differentially private frequency distribution estimation with relative error optimization [J]. Frontiers of Computer Science (FCS), 2024, 18(5): 185613 (CCF-B, SCI三区) [[PDF]](papers/26_FCS_2024.pdf) 
 * Mingxin Li, Yizhen Yu, Ning Wang, <u>Zhigang Wang*</u>, Xiaodong Wang, Haipeng Xu, Jia Xu, Shen Su, Zhichao Yin. A hybrid framework for effective and efficient machine unlearning [C]. 
-The 3rd International Conference on Cyberspace Simulation and Evaluation (CSE), 2024, accepted (EI) [[PDF]](papers/25_CSE_2024.pdf) <span style="color:red;">**New!**</span>  
+The 3rd International Conference on Cyberspace Simulation and Evaluation (CSE), 2024, accepted (EI) [[PDF]](papers/25_CSE_2024.pdf)   
 * Ning Wang, Yaohua Wang, <u>Zhigang Wang*</u>, Jie Nie, Zhiqiang Wei, Peng Tang, Yu Gu, Ge Yu. PrivNUD: Effective Range Query Processing under Local Differential Privacy [C], IEEE International Conference on Data Engineering (**ICDE**), 2023, pp. 2660-2672 (EI, **CCF-A**) [[PDF]](papers/24_ICDE_2023.pdf)      
 * <u>Zhigang Wang</u>, Zichao Yang, Ning Wang*, Yujie Du, Jie Nie, Zhiqiang Wei, Yu Gu, Ge Yu. Lightweight Streaming Graph Partitioning by Fully Utilizing Knowledge from Local View [C], the 43rd IEEE International Conference on Distributed Computing Systems (**ICDCS**), 2023, pp. 614-625 (EI, CCF Rank-B) [[PDF]](papers/22_ICDCS_2023.pdf)     
-* <u>Zhigang Wang</u>, Yilei Tu, Ning Wang*, Lixin Gao, Jie Nie, Zhiqiang Wei, Yu Gu, Ge Yu. FSP: Towards Flexible Synchronous Parallel Frameworks for Distributed Machine Learning [J], IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2023, 34(2): 687-703 (SCI, 中科院二区, IF=3.757, **CCF Rank-A**) [[PDF]](papers/20_TPDS_2023.pdf)     
+* <u>Zhigang Wang</u>, Yilei Tu, Ning Wang*, Lixin Gao, Jie Nie, Zhiqiang Wei, Yu Gu, Ge Yu. FSP: Towards Flexible Synchronous Parallel Frameworks for Distributed Machine Learning [J], IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2023, 34(2): 687-703 (SCI, 中科院二区, IF=3.757, **CCF-A**) [[PDF]](papers/20_TPDS_2023.pdf)     
 * <u>Zhigang Wang</u>, Ning Wang*, Jie Nie, Zhiqiang Wei, Yu Gu, and Ge Yu. A lock-free approach to parallelizing personalized pagerank computations on GPU [J], Frontiers of Computer Science (FCS), 2023, 17(1):171602 (SCI, 中科院三区, IF=2.669, CCF Rank-B) [[PDF]](papers/21_FCS_2023.pdf)     
 * 杜玉洁, <u>王志刚*</u>, 王宁, 刘芯亦, 衣军成, 聂婕, 魏志强, 谷峪, 于戈. 分布式多维大图迭代计算性能优化方法 [J], 计算机研究与发展, 2023, 60(3):654-675, (EI, **CCF-A类中文**) [[PDF]](papers/23_yanfa_2023.pdf)     
-* <u>Zhigang Wang</u>, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling [J], IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021, 33(5):1973-1987 (SCI, 中科院二区, IF=4.935, **CCF Rank-A**) [[PDF]](papers/19_TKDE_2021.pdf)     
+* <u>Zhigang Wang</u>, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling [J], IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021, 33(5):1973-1987 (SCI, 中科院二区, IF=4.935, **CCF-A**) [[PDF]](papers/19_TKDE_2021.pdf)     
 * Ning Wang, <u>Zhigang Wang</u>∗, Yu Gu, Yubin Bao, Ge Yu. TSH: Easy-to-be distributed partitioning for large-scale graphs [J], Future Generation Computer Systems-The International Journal of eScience (FGCS), 2019, 101:804-818 (SCI, IF=6.125, 中科院一区, Top期刊, CCF Rank-C) [[PDF]](papers/17_FGCS_2019_tsh_partitioning.pdf)  
-* <u>Zhigang Wang</u>, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu*. A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments [J], IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2018, 29(8): 1678-1692 (SCI, IF=3.402, 中科院二区, **CCF Rank-A**) [[PDF]](papers/16_TPDS_2018_fc_asyn.pdf)   
+* <u>Zhigang Wang</u>, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu*. A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments [J], IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2018, 29(8): 1678-1692 (SCI, IF=3.402, 中科院二区, **CCF-A**) [[PDF]](papers/16_TPDS_2018_fc_asyn.pdf)   
 * <u>Zhigang Wang</u>, Yu Gu, Yubin Bao, Ge Yu*, Lixin Gao. An I/O-efficient and Adaptive Fault-tolerant Framework for Distributed Graph Computations [J], Distributed and Parallel Databases, 2017, 35(2):177-196 (SCI, IF=0.925, 中科院四区, CCF Rank-C) [[PDF]](papers/14_DPD_2017_弹性容错.pdf)   
 * <u>Zhigang Wang</u>, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu. FSP: Towards Flexible Synchronous Parallel Framework for Expectation Maximization based Algorithms on Cloud [C], ACM Symposium on Cloud Computing (SoCC), 2017, pp. 1-14 (EI, CCF Rank-B) [[PDF]](papers/15_SoCC_2017_fsp.pdf)   
-* <u>Zhigang Wang</u>, Yu Gu, Yubin Bao, Ge Yu, Jeffrey Xu Yu. Hybrid Pulling/Pushing for I/O-Efficient Distributed and Iterative Graph Computing [C], ACM SIGMOD International Conference on Management of Data (**SIGMOD**), 2016, pp. 479-494 (EI, **CCF Rank-A**) [[PDF]](papers/11_SIGMOD_2016_hybrid.pdf)   
+* <u>Zhigang Wang</u>, Yu Gu, Yubin Bao, Ge Yu, Jeffrey Xu Yu. Hybrid Pulling/Pushing for I/O-Efficient Distributed and Iterative Graph Computing [C], ACM SIGMOD International Conference on Management of Data (**SIGMOD**), 2016, pp. 479-494 (EI, **CCF-A**) [[PDF]](papers/11_SIGMOD_2016_hybrid.pdf)   
 * <u>Zhigang Wang</u>, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu. A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments [C], ACM Symposium on Cloud Computing (SoCC), 2016, pp. 71-83 (EI, CCF Rank-B) [[PDF]](papers/12_SoCC_2016_fc_asyn.pdf)   
 * <u>王志刚</u>, 谷峪, 鲍玉斌, 于戈*. OnFlyP: 基于定向边交换的分布式在线大图划分算法 [J], 计算机学报, 2015, 38(9):1838-1851 (EI, 一级学报, NDBC'14最佳论文) [[PDF]](papers/10_计算机学报_2015_在线大图划分.pdf)   
 * <u>Zhigang Wang</u>, Yu Gu, Roger Zimmermann, Ge Yu. Shortest Path Computation over Disk-resident Large Graphs based on Extended Bulk Synchronous Parallel Methods [C], International Conference on Database Systems for Advanced Applications(DASFAA), 2013, pp.1-15 (EI, CCF Rank-B) [[PDF]](papers/3_DASFAA_2013_Shortest Path Computation over Disk-Resident.pdf)   
@@ -103,4 +111,4 @@ The 3rd International Conference on Cyberspace Simulation and Evaluation (CSE), 
 * 于戈, 谷峪, 鲍玉斌, <u>王志刚</u>. 云计算环境下的大规模图数据处理技术 [J], 计算机学报, 2011, 34(10):1753-1767 (EI, 一级学报) [[PDF]](papers/1_计算机学报_2011_云计算环境下的大规模图数据处理技术.pdf)   
 
 
-**更新时间：2025/03/28**   
+**更新时间：2026/02/22**   
