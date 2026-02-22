@@ -25,7 +25,7 @@
 2007/09-2011/07，东北大学，学士   
 
 ## 报告交流
-* 2025.08.21, <a href="https://m.alltuu.com/album/1472116502/?menu=live">AI大模型时代面向医疗领域信息安全的智能攻防技术</a>,         
+* 2025.08.21, <a href="https://m.alltuu.com/album/1472116502/?menu=live">AI大模型时代面向医疗领域信息安全的智能攻防技术</a>, 广东省卫生健康网络与数据安全研究及实训基地         
 * 2025.08.09, <a href="https://m.alltuu.com/album/1472116502/?menu=live">AI大模型时代下的智能化网络攻防</a>, 2025网络安全技术创新与人才教育大会-网络空间安全主动防御创新技术分论坛        
 * 2025.03.25, <a href="https://mp.weixin.qq.com/s/BblUeNbN5DAbozOeesRkzw">AI大模型在垂直领域应用时的数据安全问题：思考与应对</a>, 广东省卫生健康网络与数据安全研究及实训基地 (视频号：AI大模型的新风险应对措施培训)      
 * 2024.08.29, <a href="https://mp.weixin.qq.com/s/Yu27ABU4Ld0akFxCaDaxow">DB for Ocean: 海洋大数据处理过程中的若干加速问题探索与研究</a>, 中山大学百年华诞计算机学科系列论坛        
