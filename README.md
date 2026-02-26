@@ -51,6 +51,7 @@
 * 广东省大数据专委委员    
 
 ## 科研项目
+[2025-2028] 广东省重点研发项目 “多模态大模型安全体系研究及应用”(2026B0101100002)，**广州大学负责人** <span style="color:red;">**New!**</span>      
 [2026-2029] NSFC-联合基金重点项目 “面向跨域工控系统威胁的非侵入主动安全防御关键技术研究”(U25A20424)，参与 <span style="color:red;">**New!**</span>      
 [2026-2028] 广东省自然科学基金-面上项目 “软硬件异构环境下支持大模型高效训练的分布式数据处理技术”，**负责人** <span style="color:red;">**New!**</span>   
 [2025-2026] 教育部重点实验室开放课题 “支持异构环境下大模型高效训练的分布式数据处理与优化技术研究”(2024ZD016)，**负责人**    
@@ -71,6 +72,7 @@
 
 ## 发表论文
 ### 一作/通信作者论文：   
+* Ning Wang, Huaibei Li, Shen Su, Gu Yu*, Ge Yu, <u>Zhigang Wang*</u>, Dawei Zhao, Hui Lu, Zhihong Tian. C2graph: A Compression-Collaboration Algorithm for CPU-GPU Hybrid Weighted Graph Traversals [C]. The 42nd IEEE International Conference on Data Engineering (**ICDE**), 2026, accepted (**CCF-A**) [[PDF]](papers/32_ICDE_2026.pdf) <span style="color:red;">**New!**</span>  
 * <u>Zhigang Wang</u>, Xu Zhang, Ning Wang*, Chuanfei Xu, Yu Gu, Hui Lu, Dawei Zhao*, Zhihong Tian. Accelerating Heterogeneous Tensor Parallelism via Flexible Workload Control [J]. IEEE Transactions on Big Data, 2026, accepted (CCF-B, SCI二区) [[PDF]](papers/31_TBD_2026.pdf) <span style="color:red;">**New!**</span>  
 * <u>Zhigang Wang</u>, Yizhen Yu, Mingxin Li, Jian Lou*, Ning Wang*, Yu Gu, Shen Su, Yuan Liu, Hui Jiang*, Zhihong Tian. FELEMN: Toward Efficient Feature-Level Machine Unlearning for Exact Privacy Protection [J]. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025, 37(12):7169-7183 (**CCF-A**, **SCI一区Top**) [[PDF]](papers/30_TKDE_2025.pdf) <span style="color:red;">**New!**</span>  
 * <u>Zhigang Wang</u>, Gongtai Sun, Ning Wang, Lixin Gao, Chuanfei Xu, Yu Gu, Ge Yu, Zhihong Tian*. Lightweight Graph Partitioning Enhanced by Implicit Knowledge [J]. IEEE Transactions on Computers, 2025, 74(12):4153-4167 (**CCF-A**, SCI二区) [[PDF]](papers/29_TC_2025.pdf) <span style="color:red;">**New!**</span>    
