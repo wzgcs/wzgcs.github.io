@@ -2,7 +2,7 @@
 
 <p style="width:700px;">
     <img src="/zhigang.jpg" align="right" width="120" hspace="5" vspace="5">
-     副教授，现工作于广州大学-网络空间安全学院。本硕博毕业于东北大学，导师为<a href="http://faculty.neu.edu.cn/yuge/">于戈教授</a>，曾赴美国马萨诸撒大学-艾姆霍斯特分校(UMASS Amherst)进行为期两年的CSC联合培养博士学习，导师为<a href="http://www-unix.ecs.umass.edu/~lgao/">Prof. Lixin Gao</a>，并于新加坡国立大学(NUS)计算机学院担任研究助理；主要研究方向为<u>大模型训推加速与安全</u>、<u>大模型赋能智能网络安全攻防</u>、<u>CPU-GPU高性能计算</u>；已在ACM SIGMOD和IEEE TPDS与TKDE等国际顶级会议与期刊发表学术论文30余篇，主持国家、省部级课题5项、参与6项，主持发布开源大图处理系统<a href="https://github.com/HybridGraph/HGraph">[HGraph]</a>. <b>招收对相关领域感兴趣的研究生!</b>
+     副教授，现工作于广州大学-网络空间安全学院。本硕博毕业于东北大学，导师为<a href="http://faculty.neu.edu.cn/yuge/">于戈教授</a>，曾赴美国马萨诸撒大学-艾姆霍斯特分校(UMASS Amherst)进行为期两年的CSC联合培养博士学习，导师为<a href="http://www-unix.ecs.umass.edu/~lgao/">Prof. Lixin Gao</a>，并于新加坡国立大学(NUS)计算机学院担任研究助理；主要研究方向为<u>大模型训推加速与安全</u>、<u>大模型赋能智能网络安全攻防</u>、<u>CPU-GPU高性能计算</u>；已在SIGMOD、ICDE和IEEE TPDS与TKDE等国际顶级会议与期刊发表学术论文30余篇，主持/参与国家、省部级课题多项，主持发布开源大图处理系统<a href="https://github.com/HybridGraph/HGraph">[HGraph]</a>. <b>招收对相关领域感兴趣的研究生!</b>
 </p>
 
 ——————————————————————————————————
