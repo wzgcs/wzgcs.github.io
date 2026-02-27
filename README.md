@@ -72,7 +72,6 @@
 
 ## 发表论文
 ### 一作/通信作者论文：   
-* Ning Wang, Huaibei Li, Shen Su, Gu Yu*, Ge Yu, <u>Zhigang Wang*</u>, Dawei Zhao, Hui Lu, Zhihong Tian. C2graph: A Compression-Collaboration Algorithm for CPU-GPU Hybrid Weighted Graph Traversals [C]. The 42nd IEEE International Conference on Data Engineering (**ICDE**), 2026, accepted (**CCF-A**) [[PDF]](papers/32_ICDE_2026.pdf) <span style="color:red;">**New!**</span>  
 * <u>Zhigang Wang</u>, Xu Zhang, Ning Wang*, Chuanfei Xu, Yu Gu, Hui Lu, Dawei Zhao*, Zhihong Tian. Accelerating Heterogeneous Tensor Parallelism via Flexible Workload Control [J]. IEEE Transactions on Big Data, 2026, accepted (CCF-B, SCI二区) [[PDF]](papers/31_TBD_2026.pdf) <span style="color:red;">**New!**</span>  
 * <u>Zhigang Wang</u>, Yizhen Yu, Mingxin Li, Jian Lou*, Ning Wang*, Yu Gu, Shen Su, Yuan Liu, Hui Jiang*, Zhihong Tian. FELEMN: Toward Efficient Feature-Level Machine Unlearning for Exact Privacy Protection [J]. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025, 37(12):7169-7183 (**CCF-A**, **SCI一区Top**) [[PDF]](papers/30_TKDE_2025.pdf) <span style="color:red;">**New!**</span>  
 * <u>Zhigang Wang</u>, Gongtai Sun, Ning Wang, Lixin Gao, Chuanfei Xu, Yu Gu, Ge Yu, Zhihong Tian*. Lightweight Graph Partitioning Enhanced by Implicit Knowledge [J]. IEEE Transactions on Computers, 2025, 74(12):4153-4167 (**CCF-A**, SCI二区) [[PDF]](papers/29_TC_2025.pdf) <span style="color:red;">**New!**</span>    
@@ -98,6 +97,7 @@ The 3rd International Conference on Cyberspace Simulation and Evaluation (CSE), 
 * <u>Zhigang Wang</u>, Yubin Bao, Yu Gu, Fangling Leng, Ge Yu, Chao Deng, Leitao Guo. A BSP-based Parallel Iterative Processing System with Multiple Partition Strategies for Big Graphs [J], IEEE International Congress on Big Data, 2013, pp. 173-180 (EI) [[PDF]](papers/6_IEEE Big Data_2013_A BSP-based Parallel Iterative Processing System with Multiple Partition Strategies for Big Graphs.pdf)   
 
 ### 合作论文：  
+* Ning Wang, Huaibei Li, Shen Su, Gu Yu*, Ge Yu, <u>Zhigang Wang</u>, Dawei Zhao, Hui Lu*, Zhihong Tian. C2graph: A Compression-Collaboration Algorithm for CPU-GPU Hybrid Weighted Graph Traversals [C]. The 42nd IEEE International Conference on Data Engineering (**ICDE**), 2026, accepted (**CCF-A**) [[PDF]](papers/32_ICDE_2026.pdf) <span style="color:red;">**New!**</span>  
 * Yuhang Su, Yu Gu*, <u>Zhigang Wang</u>, Ying Zhang, Jianbin Qin, Ge Yu. Efficient subhypergraph matching based on hyperedge features[J], IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022, 35(6): 5808-5822 (**CCF-A**, SCI二区).    
 * Yu Gu*, Kaiqiang Yu, Zhen Song, Jianzhong Qi, <u>Zhigang Wang</u>, Ge Yu, Rui Zhang. Distributed Hypergraph Processing Using Intersection Graphs[J]. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022, 34(7): 3182-3195 (**CCF-A**, SCI二区).   
 * Zhen Song, Yu Gu, Jianzhong Qi, <u>Zhigang Wang</u>, Ge Yu. EC-Graph: A Distributed Graph Neural Network System with Error-Compensated Compression [C], IEEE International Conference on Data Engineering (**ICDE**), 2022, pp. 648-660 (EI, **CCF-A**)        
