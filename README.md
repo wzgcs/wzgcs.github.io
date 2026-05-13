@@ -51,7 +51,7 @@
 * 广东省大数据专委委员    
 
 ## 科研项目
-[2026-2028] 国家重点研发项目“网络空间安全治理”重点专项 “****”，**子课题负责人** <span style="color:red;">**New!**</span>  
+[2026-2028] 国家重点研发项目“网络空间安全治理”重点专项 “xxxx”，**子课题负责人** <span style="color:red;">**New!**</span>  
 [2025-2028] 广东省重点研发项目 “多模态大模型安全体系研究及应用”(2026B0101100002)，**广州大学负责人** <span style="color:red;">**New!**</span>      
 [2026-2029] NSFC-联合基金重点项目 “面向跨域工控系统威胁的非侵入主动安全防御关键技术研究”(U25A20424)，参与 <span style="color:red;">**New!**</span>      
 [2026-2028] 广东省自然科学基金-面上项目 “软硬件异构环境下支持大模型高效训练的分布式数据处理技术”（2026A1515010459），**负责人** <span style="color:red;">**New!**</span>   
@@ -73,7 +73,7 @@
 
 ## 发表论文
 ### 一作/通信作者论文：   
-* Fan Li, Yu Gu*, <u>Zhigang Wang*</u>, Fangling Leng, Zhenghao Liu, Ge Yu. Towards Efficient and Effective Diffusion Language Model Inference via Semantic-Aware Adaptive Denoising [C]. The 64th Annual Meeting of the Association for Computational Linguistics, 2026, accepted (CCF-A, Main) [[PDF]](papers/32_ACL_2026.pdf) <span style="color:red;">**New!**</span>  
+* Fan Li, Yu Gu*, <u>Zhigang Wang*</u>, Fangling Leng, Zhenghao Liu, Ge Yu. Towards Efficient and Effective Diffusion Language Model Inference via Semantic-Aware Adaptive Denoising [C]. The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026, accepted (CCF-A, Main) [[PDF]](papers/32_ACL_2026.pdf) <span style="color:red;">**New!**</span>  
 * <u>Zhigang Wang</u>, Xu Zhang, Ning Wang*, Chuanfei Xu, Yu Gu, Hui Lu, Dawei Zhao*, Zhihong Tian. Accelerating Heterogeneous Tensor Parallelism via Flexible Workload Control [J]. IEEE Transactions on Big Data, 2026, accepted (CCF-B, SCI二区) [[PDF]](papers/31_TBD_2026.pdf) <span style="color:red;">**New!**</span>  
 * <u>Zhigang Wang</u>, Yizhen Yu, Mingxin Li, Jian Lou*, Ning Wang*, Yu Gu, Shen Su, Yuan Liu, Hui Jiang*, Zhihong Tian. FELEMN: Toward Efficient Feature-Level Machine Unlearning for Exact Privacy Protection [J]. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025, 37(12):7169-7183 (**CCF-A**, **SCI一区Top**) [[PDF]](papers/30_TKDE_2025.pdf) <span style="color:red;">**New!**</span>  
 * <u>Zhigang Wang</u>, Gongtai Sun, Ning Wang, Lixin Gao, Chuanfei Xu, Yu Gu, Ge Yu, Zhihong Tian*. Lightweight Graph Partitioning Enhanced by Implicit Knowledge [J]. IEEE Transactions on Computers, 2025, 74(12):4153-4167 (**CCF-A**, SCI二区) [[PDF]](papers/29_TC_2025.pdf) <span style="color:red;">**New!**</span>    
@@ -99,7 +99,7 @@ The 3rd International Conference on Cyberspace Simulation and Evaluation (CSE), 
 * <u>Zhigang Wang</u>, Yubin Bao, Yu Gu, Fangling Leng, Ge Yu, Chao Deng, Leitao Guo. A BSP-based Parallel Iterative Processing System with Multiple Partition Strategies for Big Graphs [J], IEEE International Congress on Big Data, 2013, pp. 173-180 (EI) [[PDF]](papers/6_IEEE Big Data_2013_A BSP-based Parallel Iterative Processing System with Multiple Partition Strategies for Big Graphs.pdf)   
 
 ### 合作论文：  
-* He Wang, Yu Gu, Fangfang Li*, <u>Zhigang Wang</u>, Zhenghao Liu, Ning Wang, Xiaohua Li, Ge Yu. HqeKV: Towards Hybrid Quantization and Eviction for KV Cache in Long-Context LLM Inference [C]. The 64th Annual Meeting of the Association for Computational Linguistics, 2026, accepted (CCF-A, Findings) [[PDF]](papers/33_ACL_2026.pdf) <span style="color:red;">**New!**</span>  
+* He Wang, Yu Gu, Fangfang Li*, <u>Zhigang Wang</u>, Zhenghao Liu, Ning Wang, Xiaohua Li, Ge Yu. HqeKV: Towards Hybrid Quantization and Eviction for KV Cache in Long-Context LLM Inference [C]. The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026, accepted (CCF-A, Findings) [[PDF]](papers/33_ACL_2026.pdf) <span style="color:red;">**New!**</span>  
 * Ning Wang, Huaibei Li, Shen Su, Gu Yu*, Ge Yu, <u>Zhigang Wang</u>, Dawei Zhao, Hui Lu*, Zhihong Tian. C2graph: A Compression-Collaboration Algorithm for CPU-GPU Hybrid Weighted Graph Traversals [C]. The 42nd IEEE International Conference on Data Engineering (**ICDE**), 2026, accepted (**CCF-A**) [[PDF]](papers/32_ICDE_2026.pdf) <span style="color:red;">**New!**</span>  
 * Yuhang Su, Yu Gu*, <u>Zhigang Wang</u>, Ying Zhang, Jianbin Qin, Ge Yu. Efficient subhypergraph matching based on hyperedge features[J], IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022, 35(6): 5808-5822 (**CCF-A**, SCI二区).    
 * Yu Gu*, Kaiqiang Yu, Zhen Song, Jianzhong Qi, <u>Zhigang Wang</u>, Ge Yu, Rui Zhang. Distributed Hypergraph Processing Using Intersection Graphs[J]. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022, 34(7): 3182-3195 (**CCF-A**, SCI二区).   
